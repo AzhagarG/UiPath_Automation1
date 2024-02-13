@@ -1,0 +1,13 @@
+﻿{
+  "Name": "INPUT password",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "iqCirrnslEWXkewGi533kw",
+  "Reference": "8BASmu2-m0yfnvizEqfm4g/iqCirrnslEWXkewGi533kw",
+  "ParentRef": "8BASmu2-m0yfnvizEqfm4g/Do6MYmfQT0mEFNvH_FDv-g",
+  "Created": "2024-02-01T08:56:38.7650452Z",
+  "Updated": "2024-02-01T08:56:38.7650452Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

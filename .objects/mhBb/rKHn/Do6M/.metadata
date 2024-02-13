@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Swag Labs",
+  "Type": "Screen",
+  "Id": "Do6MYmfQT0mEFNvH_FDv-g",
+  "Reference": "8BASmu2-m0yfnvizEqfm4g/Do6MYmfQT0mEFNvH_FDv-g",
+  "ParentRef": "8BASmu2-m0yfnvizEqfm4g/rKHnV4pcc0W8uambtoUIGg",
+  "Created": "2024-02-01T08:56:38.4370814Z",
+  "Updated": "2024-02-01T08:56:38.4370814Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
